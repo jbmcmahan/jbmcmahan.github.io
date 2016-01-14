@@ -1,4 +1,7 @@
 .content {
   font-family: 'Oxygen', sans-serif;
   background-image:url('https://images.unsplash.com/photo-1436407886995-41f8f5ee43ad?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=e7d757a5f131aa2fcaa01e41757b9165');
+  background-size: cover;
+  height: 500px;
+  background-repeat: no-repeat;
 }

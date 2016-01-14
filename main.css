@@ -1,3 +1,12 @@
+html {
+  font-family: 'Oxygen', sans-serif;
+  background-image:url('http://jbmcmahan.github.io/pics/mountains.jpg');
+  background-size: cover;
+  margin:0px;
+  background-repeat: no-repeat;
+  color: #fff;
+}
+
 .nav a {
   color: #5a5a5a;
   font-size: 11px;
@@ -13,13 +22,3 @@
 .content h1 {
   text-align: center;
 }
-
-html {
-  font-family: 'Oxygen', sans-serif;
-  background-image:url('http://jbmcmahan.github.io/pics/beach.jpg');
-  background-size: cover;
-  margin:0px;
-  background-repeat: no-repeat;
-  color: #fff;
-}
-

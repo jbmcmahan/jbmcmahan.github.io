@@ -45,7 +45,7 @@
 		}
 
 	strong, b {
-		color: #6e6e6e;
+		color: #949494;
 		font-weight: 700;
 	}
 
@@ -1016,7 +1016,7 @@
 			background-color: transparent;
 			border: 0;
 			box-shadow: none;
-			height: 3.25em;
+			height: 4.5em;
 			line-height: 3.25em;
 			position: absolute;
 		}

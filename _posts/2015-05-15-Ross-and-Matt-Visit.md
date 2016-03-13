@@ -1,5 +1,4 @@
 ---
-permalink: pretty
 layout: post
 title: "Ross and Matt Visit Miami"
 date: 2015-05-04

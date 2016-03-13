@@ -9,6 +9,15 @@ layout: default
 		</header>
 		<div class="box alt">
 			<div class="row 50% uniform">
+				{% assign items = site.posts | where: "group", "photo" %}
+				{% for item in items limit: 30 %}
+					<div class="{% cycle '4u', '4u', '4u$' %}">
+						<span class="image fit">
+							<a href="{{ site.url }}{{ item.url }}">{{ item.excerpt }}</a>
+						</span>
+					</div>
+				{% endfor %}
+
 				<div class="4u"><span class="image fit"><img src="photos/1602271513_small.jpg" alt="" /></span></div>
 				<div class="4u"><span class="image fit"><img src="photos/1602271457_small.jpg" alt="" /></span></div>
 				<div class="4u$"><span class="image fit"><img src="photos/1602271417_small.jpg" alt="" /></span></div>

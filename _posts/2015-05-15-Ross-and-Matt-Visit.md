@@ -3,6 +3,7 @@ layout: post
 title: "Ross and Matt Visit Miami"
 date: 2015-05-04
 group: photo
+thumbnail: <img src="{{site.url}}/photos/1505041336.jpg_small">
 ---
 <img src="{{site.url}}/photos/1505041336.jpg" class="image fit">
 

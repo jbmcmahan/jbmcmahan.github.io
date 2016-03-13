@@ -5,11 +5,11 @@ date: 2015-05-04
 group: photo
 thumbnail: <img src="/photos/1505041336_small.jpg">
 ---
-<img src="{{site.url}}/photos/1505041336.jpg" class="image fit">
+<img src="/photos/1505041336.jpg" class="image fit">
 
 Shot with an iPhone 4s
 
-ISO 50
-4.28mm
-f/2.4
+ISO 50 -
+4.28mm -
+f/2.4 - 
 1/900 sec

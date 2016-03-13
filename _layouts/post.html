@@ -28,10 +28,10 @@ layout: default
 					{% assign prev_post = item.url %}
 			{% endif %}
 	{% endfor %}
-	{% if next_post %}
-			<a href="{{ next_post }}" class="align-right"> Next Post &rarr;</a>
-	{% endif %}
 	{% if prev_post %}
 			<a href="{{ prev_post }}" class="align-left">&larr; Previous Post</a>
+	{% endif %}
+	{% if next_post %}
+			<a href="{{ next_post }}" class="align-right"> Next Post &rarr;</a>
 	{% endif %}
 </div>

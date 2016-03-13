@@ -11,7 +11,7 @@ layout: default
 		  {{ content }}
     </div>
 	</div>
-	<footer>
+	<div>
 	  {% assign items = site.posts | where: "group", "photo" %}
 	  {% for item in items %}
 	      {% if item.url == page.url %}
@@ -33,5 +33,5 @@ layout: default
 	  {% if prev_post %}
 	      <a href="{{ prev_post }}" class="align-left">&larr; Previous Post</a>
 	  {% endif %}
-	</footer>
+	</div>
 </section>

@@ -13,7 +13,7 @@ layout: default
 				{% for item in items limit: 30 %}
 					<div class="{% cycle '4u', '4u', '4u$' %}">
 						<span class="image fit">
-							<a href="{{ site.url }}{{ item.url }}">{{ item.excerpt }}</a>
+							<a href="{{ item.url }}">{{ item.excerpt }}</a>
 						</span>
 					</div>
 				{% endfor %}

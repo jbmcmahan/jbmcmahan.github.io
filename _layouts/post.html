@@ -12,7 +12,7 @@ layout: default
     </div>
 	</div>
 	<footer>
-	  {% assign items = site.posts | where: "group", "news" %}
+	  {% assign items = site.posts | where: "group", "photo" %}
 	  {% for item in items %}
 	      {% if item.url == page.url %}
 	          {% assign post_index0 = forloop.index0 %}

@@ -9,7 +9,7 @@ layout: default
 		</header>
 		<div class="box alt">
 			<div class="row 50% uniform">
-				{% assign items = site.posts %}
+				{% assign items = site.posts | where: "group", "photo" %}
 				{% for item in items limit: 30 %}
 					<div class="{% cycle '4u', '4u', '4u$' %}">
 						<span class="image fit">

@@ -158,12 +158,17 @@
 		text-align: right;
 	}
 
+	.align-justify {
+		text-align: justify;
+  	text-justify: inter-word;
+	}
+
 	.float-left {
-        	float: left;
-    	}
+    float: left;
+	}
 
 	.float-right {
-    	float: right;
+  	float: right;
 	}
 
 

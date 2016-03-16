@@ -2,7 +2,7 @@
 layout: post
 title: "Boston Harbor"
 date: 2016-02-27
-category: photo
+category: photos
 thumbnail: <img src="/photos/1602271513_small.jpg">
 ---
 <img src="/photos/1602271513.jpg" class="image fit">

@@ -2,7 +2,7 @@
 layout: post
 title: "Parlamentarium"
 date: 2015-10-12
-category: photo
+category: photos
 thumbnail: <img src="/photos/1510121506_small.jpg">
 ---
 <img src="/photos/1510121506.jpg" class="image fit">

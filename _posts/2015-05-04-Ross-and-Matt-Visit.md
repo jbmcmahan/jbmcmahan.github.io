@@ -2,7 +2,7 @@
 layout: post
 title: "Ross and Matt Visit Miami"
 date: 2015-05-04
-category: photo
+category: photos
 thumbnail: <img src="/photos/1505041336_small.jpg">
 ---
 <img src="/photos/1505041336.jpg" class="image fit">

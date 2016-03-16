@@ -2,7 +2,7 @@
 layout: post
 title: "A Nice Beer"
 date: 2015-10-10
-category: photo
+category: photos
 thumbnail: <img src="/photos/1510101420_small.jpg">
 ---
 <img src="/photos/1510101420.jpg" class="image fit">

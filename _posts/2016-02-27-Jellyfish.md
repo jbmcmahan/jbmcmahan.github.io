@@ -2,7 +2,7 @@
 layout: post
 title: "Boston Aquarium"
 date: 2016-02-25
-category: photo
+category: photos
 thumbnail: <img src="/photos/1602271457_small.jpg">
 ---
 <img src="/photos/1602271457.jpg" class="image fit">

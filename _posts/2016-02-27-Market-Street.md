@@ -2,7 +2,7 @@
 layout: post
 title: "Market Street"
 date: 2016-02-27
-category: photo
+category: photos
 thumbnail: <img src="/photos/1602271417_small.jpg">
 ---
 <img src="/photos/1602271417.jpg" class="image fit">

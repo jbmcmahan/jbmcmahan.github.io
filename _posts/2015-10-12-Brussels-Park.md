@@ -2,7 +2,7 @@
 layout: post
 title: "Away from the City"
 date: 2015-10-12
-category: photo
+category: photos
 thumbnail: <img src="/photos/1510121328_small.jpg">
 ---
 <img src="/photos/1510121328.jpg" class="image fit">

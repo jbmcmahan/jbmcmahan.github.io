@@ -2,7 +2,7 @@
 layout: post
 title: "Belgium in the Fall"
 date: 2015-10-10
-category: photo
+category: photos
 thumbnail: <img src="/photos/1510101022_small.jpg">
 ---
 <img src="/photos/1510101022.jpg" class="image fit">

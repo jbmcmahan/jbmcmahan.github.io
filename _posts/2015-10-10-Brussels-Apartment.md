@@ -2,7 +2,7 @@
 layout: post
 title: "A Place to Stay in Brussels"
 date: 2015-10-10
-category: photo
+category: photos
 thumbnail: <img src="/photos/1510100738_small.jpg">
 ---
 <img src="/photos/1510100738.jpg" class="image fit">

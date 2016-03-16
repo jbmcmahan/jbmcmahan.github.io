@@ -2,7 +2,7 @@
 layout: post
 title: "Senior Year"
 date: 2015-10-21
-group: photo
+category: photo
 thumbnail: <img src="/photos/1510211830_small.jpg">
 ---
 <img src="/photos/1510211830.jpg" class="image fit">

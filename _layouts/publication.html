@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<section id="main" class="wrapper">
+	<div class="container">
+		<header class="major special">
+			<h2>{{ page.title }}</h2>
+      <h4>{{ page.authors }}</h4>
+			<p>{{ page.date | date: "%b %-d, %Y" }}</p>
+		</header>
+    <div class="align-justify">
+		  {{ content }}
+    </div>
+	</div>
+</section>

@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Synthesis in living cells with the assistance of supramolecular nanocarriers"
-authors: "Sherif Shaban Ragab, Ek Raj Thapaliya, Yang Zhang, Sicheng Tang, **Jeffrey Blye McMahan**, Sheyum Syed, Burjor Captain, Fran&ccedil;isco M. Raymo"
+authors: "Sherif Shaban Ragab, Ek Raj Thapaliya, Yang Zhang, Sicheng Tang, <b>Jeffrey Blye McMahan</b>, Sheyum Syed, Burjor Captain, Fran&ccedil;isco M. Raymo"
 date: 2016-03-21
 category: publications
 thumbnail: <img src="/photos/1602271417_small.jpg">

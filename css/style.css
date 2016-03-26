@@ -1204,3 +1204,8 @@
 
 			width: 50em;
 		}
+
+		#publication .references {
+			text-indent: 0em;
+			margin: 0, 0, 0, 0;
+		}

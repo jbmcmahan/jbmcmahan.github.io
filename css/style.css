@@ -1198,6 +1198,11 @@
 	  	text-justify: inter-word;
 		}
 
+			#publication .references p {
+				text-indent: 0em;
+				margin: 0, 0, 0, 0;
+			}
+
 		#publication .container {
 			margin-left: 5em;
 			margin-right: auto;

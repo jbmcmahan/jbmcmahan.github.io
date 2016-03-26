@@ -1192,6 +1192,12 @@
 
 	}
 
+		#publication p {
+			text-indent: 2em;
+			text-align: justify;
+	  	text-justify: inter-word;
+		}
+
 		#publication .container {
 			margin-left: 5em;
 			margin-right: auto;

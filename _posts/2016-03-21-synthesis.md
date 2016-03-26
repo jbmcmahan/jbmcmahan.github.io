@@ -49,7 +49,7 @@ The National Science Foundation (CHE-1049860) is acknowledged for financial supp
 
 ### References
 
-{.references}
+<p class="references">
 <a name="ref1"></a>1	(a) A. Halperin, M. Tirrell and T. P. Lodge, Adv. Polym. Sci. 1992, 100, 31; (b) T. P. Lodge, Macromol. Chem. Phys. 2003, 204, 265; (c) A. O. Moughton, M. A. Hillmyer and T. P. Lodge Macromolecules 2012, 45, 2
 
 <a name="ref2"></a>2	(a) M. Moffitt, K. Khougaz and A. Eisenberg, Acc. Chem. Res. 1996, 29, 95; (b) N. S. Cameron, K. M. Corbierre and A. Eisenberg, Can. J. Chem. 1999, 77, 1311.
@@ -134,4 +134,4 @@ The National Science Foundation (CHE-1049860) is acknowledged for financial supp
 
 <a name="ref42"></a>42	(a) J. Cusido, M. Battal, E. Deniz, I. Yildiz, S. Sortino and F. M. Raymo, Chem. Eur. J. 2012, 18, 10399; (b) S. Swaminathan, M. Petriella, E. Deniz, J. Cusido, J. D. Baker, M. L. Bossi, F. M. Raymo, J. Phys. Chem. A 2012, 116, 9928; (c) E. Deniz, M. Tomasulo, J. Cusido, I. Yildiz, M. Petriella, M. L. Bossi, S. Sortino and F. M. Raymo, J. Phys. Chem. C 2012, 116, 6058; (d) M. Petriella, E. Deniz, S. Swaminathan, M. J. Roberti, F. M. Raymo and M. L. Bossi, Photochem. Photobiol. 2013, 89, 1391.
 
-</div>
+</p>

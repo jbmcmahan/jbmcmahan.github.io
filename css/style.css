@@ -1203,14 +1203,7 @@
 				margin: 0, 0, 0, 0;
 			}
 
-		#publication .container {
-			margin-left: 5em;
-			margin-right: auto;
-
-			width: 50em;
-		}
-
-		#publication .references {
-			text-indent: 0em;
-			margin: 0, 0, 0, 0;
+		#publication .left_column {
+			width: 750px;
+			margin-left: 0px;
 		}

@@ -1210,10 +1210,6 @@
 			margin-left: 0px;
 		}
 
-		#publication .left_column p img {
-			float: right;
-		}
-
-		#publication .left_column img {
+		#publication .left_column fig {
 			float: right;
 		}

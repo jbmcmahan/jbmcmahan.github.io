@@ -1201,6 +1201,8 @@
 			#publication .references p {
 				text-indent: 0em;
 				margin: 0, 0, 0, 0;
+				line-height: 1.1em;
+				font-size: 11pt;
 			}
 
 		#publication .left_column p {

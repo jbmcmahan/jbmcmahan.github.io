@@ -955,7 +955,7 @@
 	}
 
 	#header::before{
-		background: transparent;
+		background: inherit;
 		-webkit-filter: blur(4px);
 		filter: blur(4px);
 	}

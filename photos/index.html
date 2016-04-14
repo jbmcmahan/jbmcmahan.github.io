@@ -12,7 +12,7 @@ title: Photos
 			<div class="row 50% uniform">
 				{% assign items = site.posts | where: "category", "photos" %}
 				{% for item in items limit: 30 %}
-					<div class="{% cycle '4u 6u(medium) 12u$(small)', '4u 6u(medium) 12u$(small)', '4u$ 6u(medium) 12u$(small)' %}">
+					<div class="{% cycle '4u 6u(medium) 12u$(small)', '4u 6u$(medium) 12u$(small)', '4u$ 6u(medium) 12u$(small)' 4u 6u$(medium) 12u$(small)', '4u 6u(medium) 12u$(small)', '4u$ 6u$(medium) 12u$(small)'%}">
 						<span class="image fit">
 							<a href="{{ item.url }}">{{ item.thumbnail }}</a>
 						</span>

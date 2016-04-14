@@ -171,6 +171,13 @@
   	float: right;
 	}
 
+	.cite {
+		padding-left: 2em;
+    text-indent: -2em;
+		text-align: justify;
+  	text-justify: inter-word;
+	}
+
 
 /* Section/Article */
 

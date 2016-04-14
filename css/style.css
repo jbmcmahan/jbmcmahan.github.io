@@ -923,7 +923,7 @@
 /* Header */
 
 	#skel-layers-wrapper {
-		padding-top: 6em;
+		padding-top: 4em;
 	}
 
 	body.landing #skel-layers-wrapper {
@@ -1105,7 +1105,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 6em 0 4em 0;
+		padding: 4em 0 4em 0;
 	}
 
 		.wrapper.style2 {

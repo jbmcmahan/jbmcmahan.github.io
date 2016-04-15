@@ -80,15 +80,12 @@
 				float: right;
 				clear: right;
 				padding-top: 15px
+				width: 50%;
 			}
 
 			#publication figure {
 				display: table;
 				width: 1px;
-			}
-
-			#publication img {
-				width: 50%;
 			}
 
 			#publication img, figcaption {

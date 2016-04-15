@@ -43,3 +43,41 @@
 	.wrapper.style3 header.major {
 		margin-bottom: 2em;
 	}
+
+	#publication {
+
+	}
+
+		#publication p {
+			text-indent: 2em;
+			text-align: justify;
+	  	text-justify: inter-word;
+		}
+
+			#publication .references p {
+				text-indent: 0em;
+				margin: 0, 0, 0, 0;
+				line-height: 1.1em;
+				font-size: 11pt;
+			}
+
+		#publication .left_column p h3 h4{
+			width: 50%;
+			margin-left: 0px;
+		}
+
+			#publication .left_column figure {
+				float: right;
+				clear: right;
+				padding-top: 15px
+				display: table;
+				width: 1px;
+			}
+
+			#publication img {
+				width: 50%;
+			}
+
+			#publication img, figcaption {
+				display: table-row;
+			}

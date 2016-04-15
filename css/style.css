@@ -1231,10 +1231,13 @@
 				float: right;
 				clear: right;
 				padding-top: 15px
+			}
+
+			#publication figure {
 				display: table;
 				width: 1px;
 			}
-
+			
 			#publication img, figcaption {
 				display: table-row;
 			}

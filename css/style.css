@@ -1218,6 +1218,6 @@
 		}
 
 			#publication .left_column figure {
-				right: 0px;
-				width: 50%;
+				float: right;
+				clear: right;
 			}

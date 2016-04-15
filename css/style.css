@@ -1212,7 +1212,17 @@
 				font-size: 11pt;
 			}
 
-		#publication .left_column p h3 h4{
+		#publication .left_column p {
+			width: 50%;
+			margin-left: 0px;
+		}
+
+		#publication .left_column h3 {
+			width: 50%;
+			margin-left: 0px;
+		}
+
+		#publication .left_column h4 {
 			width: 50%;
 			margin-left: 0px;
 		}

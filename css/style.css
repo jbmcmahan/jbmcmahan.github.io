@@ -1213,10 +1213,11 @@
 			}
 
 		#publication .left_column p {
-			width: 750px;
+			width: 50%;
 			margin-left: 0px;
 		}
 
-		#publication .left_column figure {
-			float: right;
-		}
+			#publication .left_column figure {
+				right: 0px;
+				width: 50%;
+			}

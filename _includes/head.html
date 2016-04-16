@@ -10,6 +10,8 @@
 	<script src="{{site.url}}/js/init.js"></script>
 	<script type="text/javascript" src="http://www.amcharts.com/lib/3/amcharts.js"></script>
 	<script type="text/javascript" src="http://www.amcharts.com/lib/3/xy.js"></script>
+	<script src="/js/StackBlur.js" type="text/javascript"></script>
+	<script src="/js/html2canvas.js" type="text/javascript"></script>
 	<noscript>
 		<link rel="stylesheet" href="{{site.url}}/css/skel.css" />
 		<link rel="stylesheet" href="{{site.url}}/css/style.css" />
@@ -34,4 +36,37 @@
 	<meta name="msapplication-TileColor" content="#b91d47">
 	<meta name="msapplication-TileImage" content="/mstile-144x144.png">
 	<meta name="theme-color" content="#ffffff">
+
+	<script>
+
+		$(function(){
+			html2canvas($("body"), {
+				onrendered: function(canvas) {
+			    $(".blurheader").append(canvas);
+			    $("canvas").attr("id","canvas");
+					stackBlurCanvasRGB('canvas', 0, 0, $("canvas").width(), $("canvas").height(), 20);
+				}
+
+
+			});
+			vv = setTimeout(function(){
+				$("header").show();
+				clearTimeout(vv);
+			},200)
+		})
+		$(window).scroll(function(){
+			$("canvas").css("-webkit-transform", "translatey(-" + $(window).scrollTop() + "px)");
+		})
+		window.onresize = function(){
+			$("canvas").width($(window).width());
+		}
+
+		$(document).bind('touchmove', function(){
+			$("canvas").css("-webkit-transform", "translatey(-" + $(window).scrollTop() + "px)");
+		})
+		$(document).bind('touchend', function(){
+			$("canvas").css("-webkit-transform", "translatey(-" + $(window).scrollTop() + "px)");
+		})
+
+		</script>
 </head>

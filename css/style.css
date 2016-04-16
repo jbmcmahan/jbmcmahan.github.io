@@ -5,7 +5,7 @@
 /* Basic */
 
 	body {
-		background: url("/images/natural_paper.png");
+		background: url("/images/ps_neutral.png");
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1237,7 +1237,7 @@
 				display: table;
 				width: 1px;
 			}
-			
+
 			#publication img, figcaption {
 				display: table-row;
 			}
